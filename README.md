@@ -62,10 +62,10 @@ For added functionality, the owner’s name on the main page is a **clickable li
 To make the website aesthetically pleasing, I then also went the extra effort to add CSS styling. 
 
 The improvements it gave was:
-•	Centered text for titles and important information.
-•	A clean layout for the dog list and owner details.
-•	Styling of the email links to make them stand out.
-•	Basic page structure using margins and padding for clarity.
+- Centered text for titles and important information.
+- A clean layout for the dog list and owner details.
+- Styling of the email links to make them stand out.
+- Basic page structure using margins and padding for clarity.
 
 <img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/111eb588-1bb1-45f7-ab45-f0825b9007d3" />
 
